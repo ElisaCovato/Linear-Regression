@@ -3,7 +3,7 @@ A simple walkthrough to implement a linear regression model in Python.
 
 
 ## Overview
-The Jupyter notebook [Linear Regression](https://github.com/ElisaCovato/Linear-Regression/blob/main/Linear%20Regression.ipynb) shows how to implement and plot a **simple linear regression** and a **multiple linear regression** (with 2 predictors) model.
+The Jupyter notebook [Linear Regression](https://github.com/ElisaCovato/Linear-Regression/blob/master/Linear%20Regression.ipynb) shows how to implement and plot a **simple linear regression** and a **multiple linear regression** (with 2 predictors) model.
 
 ### Regression model
 For both regressions, we use the OLS function from [statsmodels](https://www.statsmodels.org/dev/generated/statsmodels.regression.linear_model.OLS.html), which fits a linear model using the _least squares approach_ (also called _Ordinary Least Squares_ ): this estimates the regression coefficients by  minimising the residual sum of squares (RSS).
@@ -25,4 +25,4 @@ ___
 3. Install requirements: 
 
     `pip install -r requirements.txt`
-4. Use the Jupyter notebook [Linear Regression](https://github.com/ElisaCovato/Linear-Regression/blob/main/Linear%20Regression.ipynb) to quickly implement a linear regression model
+4. Use the Jupyter notebook [Linear Regression](https://github.com/ElisaCovato/Linear-Regression/blob/master/Linear%20Regression.ipynb) to quickly implement a linear regression model
