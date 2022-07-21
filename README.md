@@ -10,10 +10,10 @@ For both regressions, we use the OLS function from [statsmodels](https://www.sta
 
 
 ### Dataset
-Throughtout the notebook we will use the _advertsing_ dataset from "An Introduction To Statistical Learning" by James et al, which consist of the advertising budgets (in thousands of US dollars) for three media (TV, radio and newspapers) of a fictional company and sales data for that company. The idea is to implement a linear regression model to predict sales data, first by using one predictor (TV - simple linear regression), and then by using two predictors (TV and newspapers - multiple linear regression). 
+Throughtout the notebook we will use the _advertsing_ dataset from "An Introduction To Statistical Learning" by James et al, which consists of the advertising budgets (in thousands of US dollars) for three media (TV, radio and newspapers) of a fictional company and sales data for that company. The idea is to implement a linear regression model to predict sales data, first by using one predictor (TV - simple linear regression), and then by using two predictors (TV and newspapers - multiple linear regression). 
 
 
-### Plot
+### Plots
 We will plot the resulting regression line and plane using Matplotlib libraries. 
 
 
@@ -21,7 +21,7 @@ ___
 
 ## How to start
 1. Check out that you have a working Python installation, preferably Python 3, and Jupyter installed
-2. Git clone the [repo][https://github.com/ElisaCovato/Linear-Regression/] and cd inside directory
+2. Git clone the [repo](https://github.com/ElisaCovato/Linear-Regression/) and cd inside directory
 3. Install requirements: 
 
     `pip install -r requirements.txt`
